@@ -1,7 +1,7 @@
 #lunar.py
 from math import sqrt
 
-x = 500.
+altitude = 500.
 v = -50.
 g = -5.
 t = 1.
